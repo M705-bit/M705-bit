@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Marina!👋
 
-Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato, com o curso técnico de Eletrônica. Atualmente, estou fazendo o meu estágio obrigatório atuando como desenvolvedora. Sou muito curiosa e adoro aprender 🔍. Atualmente estou me aventurando no mundo de programação (às vezes a passos de tartaruga, mas sempre em frente haha). Se quiser saber mais sobre mim entre em contato por meio do meu perfil no linkedin:(https://www.linkedin.com/in/marina-hedlund-jardim/).
+Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato, com o curso técnico de Eletrônica. Atualmente, estou fazendo o meu estágio obrigatório atuando cna áea de devops. Sou muito curiosa e adoro aprender 🔍. Atualmente estou me aventurando no mundo de programação (às vezes a passos de tartaruga, mas sempre em frente haha). Se quiser saber mais sobre mim entre em contato por meio do meu perfil no linkedin:(https://www.linkedin.com/in/marina-hedlund-jardim/).
 
 ---
 
