@@ -38,12 +38,12 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />  
 <img 
-    align="left"
     alt="Bash"
     title="Bash"
     width="30px"
     height="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    style="padding-right: 5px; vertical-align: middle"
 />
 
 
