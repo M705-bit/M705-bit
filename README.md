@@ -43,7 +43,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     title="Bash"
     width="30px"
     height="30px"
-    style="float: left; padding-right: 10px; object-fit: contain; vertical-align: middle;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
