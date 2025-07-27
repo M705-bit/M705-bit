@@ -10,7 +10,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     alt="Python"
     title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /> 
 <img 
@@ -18,7 +18,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     alt="TensorFlow" 
     title="TensorFlow"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"           
 />
 <img 
@@ -26,7 +26,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     alt="C++" 
     title="C++"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 <img 
@@ -34,7 +34,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     alt="C"
     title="C" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />  
 <img 
@@ -43,7 +43,7 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     title="Bash"
     width="30px"
     height="30px"
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 
