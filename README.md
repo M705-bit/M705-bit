@@ -1,6 +1,4 @@
-## Oiii, eu sou a Marina!👋
-
-Hi there! My name is Marina. I am 20 years old and pursuing a degree in Computer Science. Here, I put to work my skills in electronics and computer science. Check out my new inventions! If you want to know more about me, check out my LinkedIn profile: (https://www.linkedin.com/in/marina-hedlund-jardim/).
+##Hi there 👋! My name is Marina. I am 20 years old and pursuing a degree in Computer Science. Here, I put to work my skills in electronics and computer science. Check out my new inventions! If you want to know more about me, check out my LinkedIn profile: (https://www.linkedin.com/in/marina-hedlund-jardim/).
 Currently my main projects are the folowing: 
 A game inspired in Wordle: https://m705-bit.github.io/7-days-of-code-wordle.github.io/
 A repository where I post my solutions for beecrowd problems:  https://github.com/M705-bit/beecrowd
@@ -71,6 +69,7 @@ A repository where I post my solutions for beecrowd problems:  https://github.co
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
