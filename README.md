@@ -1,6 +1,6 @@
 ## Oiii, eu sou a Marina!👋
 
-Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato, com o curso técnico de Eletrônica. Atualmente, estou fazendo o meu estágio obrigatório atuando cna áea de devops. Sou muito curiosa e adoro aprender 🔍. Atualmente estou me aventurando no mundo de programação (às vezes a passos de tartaruga, mas sempre em frente haha). Se quiser saber mais sobre mim entre em contato por meio do meu perfil no linkedin:(https://www.linkedin.com/in/marina-hedlund-jardim/).
+Hi there! My name is Marina. I am 20 years old and pursuing a degree in Computer Science. Here, I put to work my skills in electronics and computer science. Check out my new inventions!. If you want to know more about me, check out my LinkedIn profile: (https://www.linkedin.com/in/marina-hedlund-jardim/).
 
 ---
 
@@ -37,13 +37,13 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />  
-<img 
+<img
+    align="left"
     alt="Bash"
     title="Bash"
     width="30px"
-    height="30px"
+    style="padding-right: 5px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-    style="padding-right: 5px; vertical-align: middle"
 />
 
 
@@ -65,3 +65,4 @@ Meu nome é Marina, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
