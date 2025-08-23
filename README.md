@@ -45,8 +45,6 @@ Hi there! My name is Marina. I am 20 years old and pursuing a degree in Computer
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />  
-
-<br/>
 <p>
 ### 📊 Estatísticas
 </p>
@@ -66,6 +64,7 @@ Hi there! My name is Marina. I am 20 years old and pursuing a degree in Computer
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
