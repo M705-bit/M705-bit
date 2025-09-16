@@ -1,4 +1,4 @@
-Hi there 👋! My name is Marina. I am 20 years old and pursuing a degree in Computer Science. Here, I put to work my skills in electronics and computer science. Check out my new inventions!
+Hi there 👋! My name is Marina. Here, I put to work my skills in electronics and computer science. Check out my new inventions!
 If you want to know more about me, check out my LinkedIn profile:  
 [LinkedIn - Marina Hedlund Jardim](https://www.linkedin.com/in/marina-hedlund-jardim/) 
 
@@ -72,6 +72,7 @@ Currently my main projects are the folowing:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
