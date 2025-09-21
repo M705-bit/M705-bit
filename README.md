@@ -56,6 +56,14 @@ Currently my main projects are the folowing:
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/> 
 <br>
 
 ---
@@ -79,6 +87,7 @@ Currently my main projects are the folowing:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
