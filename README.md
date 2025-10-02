@@ -5,7 +5,8 @@ If you want to know more about me, check out my LinkedIn profile:
 Currently my main projects are the folowing: 
 - 🎮 A game inspired by Wordle: https://m705-bit.github.io/7-days-of-code-wordle.github.io/
 - 📝 A repository where I post my solutions for Beecrowd problems: https://github.com/M705-bit/beecrowd
----
+- 👩‍💻A repository where I post my solutions for Beecrowd problems: 
+--- 
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -87,6 +88,7 @@ Currently my main projects are the folowing:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
