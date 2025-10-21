@@ -1,11 +1,11 @@
 Hi there 👋! My name is Marina. Here, I put to work my skills in electronics and computer science. Check out my new inventions!
-If you want to know more about me, check out my LinkedIn profile:  
+If you'd like to know more about me, check out my LinkedIn profile:  
 [LinkedIn - Marina Hedlund Jardim](https://www.linkedin.com/in/marina-hedlund-jardim/) 
 
-Currently my main projects are the folowing: 
+My current projects include:: 
 - 🎮 A game inspired by Wordle: https://m705-bit.github.io/7-days-of-code-wordle.github.io/
-- 📝 A repository where I post my solutions for Beecrowd problems: https://github.com/M705-bit/beecrowd
-- 👩‍💻 A repository where I post my solutions for Leetcode problems: https://github.com/M705-bit/75-days-of-code
+- 📝 A repository where I post my solutions to Beecrowd problems: https://github.com/M705-bit/beecrowd
+- 👩‍💻 A repository where I post my solutions to Leetcode problems: https://github.com/M705-bit/75-days-of-code
 - 🥳 A birthday calendar where you can register your friends' birthdays: https://m705-bit.github.io/BirthdayCalendar-/
 --- 
 
@@ -89,6 +89,7 @@ Currently my main projects are the folowing:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
