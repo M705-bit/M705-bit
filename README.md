@@ -71,7 +71,7 @@ My current projects include::
 ---
 
 <p>
-### 📊 Estatísticas
+### 📊 Statistics
 </p>
 <p>
   <img 
@@ -89,6 +89,7 @@ My current projects include::
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
