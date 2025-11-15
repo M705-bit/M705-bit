@@ -10,7 +10,7 @@ My current projects include::
 - 📖 An API to manage a library's collection: https://github.com/M705-bit/library/tree/master
 --- 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages and Tools
 <img 
     align="left" 
     alt="Python"
@@ -98,6 +98,7 @@ My current projects include::
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
