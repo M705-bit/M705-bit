@@ -60,6 +60,14 @@ My current projects include::
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 /> 
 <img 
+    align="left"
+    alt="Node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 5px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
     align="left" 
     alt="C"
     title="C" 
@@ -90,6 +98,7 @@ My current projects include::
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
