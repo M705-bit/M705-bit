@@ -7,7 +7,7 @@ My current projects include::
 - 📝 A repository where I post my solutions to Beecrowd problems: https://github.com/M705-bit/beecrowd
 - 👩‍💻 A repository where I post my solutions to Leetcode problems: https://github.com/M705-bit/75-days-of-code
 - 🥳 A birthday calendar where you can register your friends' birthdays: https://m705-bit.github.io/BirthdayCalendar-/
-- 📖 An API to manage a library's collection: https://github.com/M705-bit/library/tree/master
+- 📖 An API to manage a library's collection, built with Node.js and Express: https://github.com/M705-bit/library/tree/master
 --- 
 
 ### 🤖 Programming Languages and Tools
@@ -98,6 +98,7 @@ My current projects include::
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
