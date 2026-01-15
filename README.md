@@ -89,7 +89,8 @@ My current projects include::
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    <!-- src="https://github-readme-stats.vercel.app/api?username=M705-bit" -->
+    <!--src="https://github-readme-stats.vercel.app/api?username=M705-bit"-->
+    src="https://github-readme-stats.zcy.dev/api?username=M705-bit&hide=contribs,prs)"
   />
 
 <img 
@@ -99,6 +100,7 @@ My current projects include::
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
 
