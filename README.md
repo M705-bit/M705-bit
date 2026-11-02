@@ -22,14 +22,14 @@ My current projects include::
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /> 
-<img 
+<!-- <img 
     align="left" 
     alt="TensorFlow" 
     title="TensorFlow"
     width="30px" 
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"           
-/>
+/> -->
 <img 
     align="left" 
     alt="C++" 
